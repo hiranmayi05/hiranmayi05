@@ -16,10 +16,16 @@ I'm a passionate Software Developer, Problem Solver, and Tech Explorer. My journ
 🎯 Goal: To become a full-stack developer contributing to impactful projects.
 
 
+Languages and Tools:
+aws bootstrap c django firebase git java javascript mongodb mysql nodejs postman react redux
+
+
    🧠 What Keeps Me Going:
    
 📚 Constantly learning to solve exciting challenges in Data Structures & Algorithms and Web Development.
 🚀 Always exploring new ways to innovate and create impactful solutions.
+
+
 
 
    🎯 What I'm Up To
